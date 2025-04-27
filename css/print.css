@@ -1,0 +1,19 @@
+
+body {
+  font-family: Times, serif;
+  color: black;
+  background: none;
+}
+
+header, nav, footer {
+  display: none;
+}
+
+main {
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
